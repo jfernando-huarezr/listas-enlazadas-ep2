@@ -14,4 +14,4 @@ Se nos dió el archivo number-linked-list.js, en el cual debe implementarse los 
 - removeGreaterThan(number) : Elimina todos los números mayores que un número dado de la lista.
 - print(): Imprime la lista como una cadena de caracteres separados por comas.
 
-Además, en el archivo index.js se ha colocado casos de prueba para la verificación de la implementacion. Para hacer las pruebas ejecutar el comando `npm run test`
+Además, en el archivo index.js se ha colocado casos de prueba para la verificación de la implementacion. Para hacer las pruebas ejecutar el comando `npm run test`. Un video con la solucion explicada se encuentra en este [enlace](https://youtu.be/FL0O3WwYcSU)
